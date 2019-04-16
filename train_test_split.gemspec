@@ -6,7 +6,7 @@ require "train_test_split/version"
 Gem::Specification.new do |spec|
   spec.name          = "train_test_split"
   spec.version       = TrainTestSplit::VERSION
-  spec.authors       = ["Zulqarnain Nazir"]
+  spec.authors       = ["ZulqarnainNazir"]
   spec.email         = ["zulqarnainnazir1@gmail.com"]
 
   spec.summary       = "asasasa"

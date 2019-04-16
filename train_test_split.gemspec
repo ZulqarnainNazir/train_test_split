@@ -9,9 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["ZulqarnainNazir"]
   spec.email         = ["zulqarnainnazir1@gmail.com"]
 
-  spec.summary       = "asasasa"
-  spec.description   = "asasas"
-  # spec.homepage      = "www.google.com"
+  spec.description       = "In machine learning we usually split data into training data and test data. The training set contains a known output and the model learns on this data in order to be generalized to other data later on."
+  spec.homepage      = "https://github.com/ZulqarnainNazir/train_test_split"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
